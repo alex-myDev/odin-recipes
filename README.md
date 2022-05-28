@@ -1,4 +1,4 @@
-# FirstHTML
+# odin-recipes
 
 This website (and project) will display my ability to create a basic website that will list links to various recipes.
 
